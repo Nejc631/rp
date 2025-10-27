@@ -62,3 +62,9 @@ h2{
     width: 100%;
     height: auto;
 }
+
+.slika p:last-child {
+    font-size: 0.8em;
+    background-color: #cc0000;
+    border-radius: 50%;
+}
